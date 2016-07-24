@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciwise-master>
+	<ciwise-client>
+		<id></id>
+		<organization>Hoegg Sofware</organization>
+		<name>Ryan Hoegg</name>
+		<email></email>
+		<phone></phone>
+		<addr1></addr1>
+		<addr2></addr2>
+		<city></city>
+		<state-province></state-province>
+		<postal-code></postal-code>
+		<note></note>
+	</ciwise-client>
+	<ciwise-projects>
+		<ciwise-project>
+			<id>1</id>
+			<name></name>
+			<description></description>
+			<neg_rate></neg_rate>
+			<fixed_price></fixed_price>
+			<scm></scm>
+			<issues></issues>
+			<wiki></wiki>
+			<communications1></communications1>
+			<communications2></communications2>
+			<communications3></communications3>
+		</ciwise-project>	
+		<ciwise-project>
+			<id>1</id>
+			<name></name>
+			<description></description>
+			<neg_rate></neg_rate>
+			<fixed_price></fixed_price>
+			<scm></scm>
+			<issues></issues>
+			<wiki></wiki>
+			<communications1></communications1>
+			<communications2></communications2>
+			<communications3></communications3>
+		</ciwise-project>	
+	</ciwise-projects>
+
+</ciwise-master>
